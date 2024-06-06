@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000; /* Cor de fundo para visualização */
+}
+.conf-menu{
+    color: white;
+}
+.confmenu2{
+    background-color: black !important;
+}
+#taggleable{
+    color: white;
+    text-align: center;
+    
+}
+#taggleable2{
+    color: rgb(185, 62, 62);
+}
+.confpanes{
+    text-align: center;
+   
+}
+#textpre{
+    color: white;
+    text-align: left;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+ul {
+    align-items: center;
+}
+.text-body-secondary{
+    color: rgb(255, 255, 255) !important;
+}
+#menuconf{
+    margin-left: 33%;
+    
+}

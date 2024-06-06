@@ -1,0 +1,33 @@
+.cor{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: black;
+
+}
+.confmenu{
+    color: rgb(255, 255, 255);
+}
+.confimg{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.conftext{
+    color: white;
+    align-items: center;
+}
+.text-foto{
+   text-align: center;
+
+}
+.conf-rodape{
+    color: white !important;
+}
+#textmim{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.text-body-secondary{
+    color: rgb(255, 255, 255) !important;
+}

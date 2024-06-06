@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000000; /* Cor de fundo para visualização */
+}
+.confmenu{
+    color: white;
+}
+.conftext{
+    color: white;
+}
+#textatua{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+.rounded-pill{
+    background-color: blue;
+}
+#linha1{
+    height: 1000px;
+    border-right: 10px solid rgb(255, 255, 255);
+    border-radius: 3.5%;
+    
+    
+}
+.text{
+    color: black;
+}
+.text2{
+    color: white;
+}
+.p{
+    font-weight: 10;
+    font-size: 12px;
+}
+.emptext{
+    text-align: center;
+    
+}
+img{
+    width: auto;
+    height: auto;
+   
+}
+.menu1{
+    background-color: rgb(44, 102, 168) !important;
+}
+#text{
+    font-size:30px;
+}
+.text-body-secondary{
+    color: rgb(255, 255, 255) !important;
+}
